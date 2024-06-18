@@ -1,4 +1,4 @@
-### If debugging is the process of removing bugs🪲 then programming 🧑‍💻 must be the process of putting them in. – Sam Redwine
+### If Debugging is the process of removing bugs🪲 then programming 🧑‍💻 must be the process of putting them in. – Sam Redwine
 
 Hi there! 👋 I'm Kuldeep, a second-year Computer Science undergraduate specializing in Cyber Security and Digital Forensics. I have a deep passion for cybersecurity, and I'm excited to dive deeper into this field as I progress in my studies and career.
 
@@ -22,7 +22,7 @@ VIT-Bhopal | Bachelor of Science in Computer Science, Specialization in Cyber Se
 Expected Graduation: 2027
 
 ## Connect with Me
-LinkedIn - https://www.linkedin.com/in/kuldeep-choudhary-906724280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br>
+LinkedIn - https://www.linkedin.com/in/kuldeep-choudhary-906724280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br> <br>
 Twitter - https://x.com/Karlos_5160?t=bMH3kEr0iyTq2y8EyNQiLA&s=09  <br>
 
 <!--START_SECTION:activity-->
