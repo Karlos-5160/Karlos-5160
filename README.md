@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Kuldeep, a Third-year Computer Science undergraduate specializing in Cyber Security and Digital Forensics. I have a deep passion for cybersecurity, and I'm excited to dive deeper into this field as I progress in my studies and career.
 
-##"Every IOT device in the world now has some ZERO day vulnerability hiding somewhere deep down in the core of the system and it is eagerly waiting to be Exploited by some RED HAT Hacker." 
+## "Every IOT device in the world now has some ZERO day vulnerability hiding somewhere deep down in the core of the system and it is eagerly waiting to be Exploited by some RED HAT Hacker." 
 
 ## About Me
 🔭 I’m currently studying Cyber Security and Digital Forensics. <br>
