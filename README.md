@@ -1,83 +1,87 @@
-# 👋 Hi, I'm Kuldeep (Karlos_5160)
-### 🛡️ Cyber Security Specialist | 💻 Digital Forensics Enthusiast | 🎓 CS Undergrad
+# 🛡️ **Kuldeep Choudhary** — *Cyber Security & Digital Forensics Student*  
+### *“The quieter you become, the more you are able to hear.” — Kali Linux*
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/7b/7b9a71f4a2f6153a5a45cd3e39e4e76c_w200.gif" width="220"/>
+</p>
 
 ---
 
-> ### 🪲 *"If Debugging is the process of removing bugs, then programming must be the process of putting them in."* – Sam Redwine
+## 🧑‍💻 **About Me**
 
-> ### ⚠️ *"Every IOT device in the world now has some ZERO day vulnerability hiding somewhere deep down in the core of the system and it is eagerly waiting to be Exploited by some BLACK HAT Hacker."*
+> *"If debugging is removing bugs, then programming must be inserting them." – Sam Redwine*  
+> *"Every IoT device hides a zero-day waiting to be exploited — but by the right hacker."*
 
----
-
-## 🙋‍♂️ About Me
-- 🔭 **Currently:** Studying Cyber Security & Digital Forensics at VIT-Bhopal.
-- 🌱 **Learning:** Python to enhance automation and scripting skills.
-- 👯 **Collaboration:** Open to projects on Cyber Security, Forensics, and Open Source Tools.
-- 🤔 **Research:** Interested in advanced Python projects and vulnerability research.
-- 💬 **Ask Me:** About Ethical Hacking, Network Security, and Digital Evidence.
-- ⚡ **Fun Fact:** Fascinated by CTF challenges and solving complex security puzzles.
+🔍 Third-year **Computer Science** undergraduate  
+🛡️ Specialization: **Cyber Security & Digital Forensics**  
+🚀 Passionate about **Ethical Hacking, DFIR & Python automation**  
+💡 Always exploring **CTFs, malware behavior & OSINT**  
+📚 Currently improving: **Python, Network Security & Forensics Tools**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ **Skills & Tech Stack**
 
-| **Programming** | **Cyber Security** | **Forensics** | **Web** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=linux&logoColor=white" /> | <img src="https://img.shields.io/badge/Forensics-FF5733?style=for-the-badge&logo=database&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> | <img src="https://img.shields.io/badge/Network_Security-28A745?style=for-the-badge&logo=cisco&logoColor=white" /> | <img src="https://img.shields.io/badge/Data_Recovery-007ACC?style=for-the-badge&logo=harddrive&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| | <img src="https://img.shields.io/badge/Vulnerability_Assessment-DC3545?style=for-the-badge&logo=bug&logoColor=white" /> | | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+### 👨‍💻 **Programming**
+- 🐍 Python  
+- 💻 C  
+- 🌐 HTML / CSS / JavaScript  
 
-### 🧰 Security Toolkit
-<!-- Edit these if you use different tools -->
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-078098?style=flat-square&logo=nmap&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+### 🔐 **Cyber Security**
+- 🕵️ Ethical Hacking  
+- 🌐 Network Security  
+- 🩻 Vulnerability Assessment  
+- 🕸️ Web App Security  
 
----
+### 🧾 **Digital Forensics**
+- 🔍 Incident Response  
+- 💾 Data Recovery  
+- 🧪 Evidence Analysis  
 
-## 🎓 Education
-| **Degree** | **Institution** | **Year** |
-| :--- | :--- | :---: |
-| 🎖️ B.Sc. Computer Science (Cyber Security & Forensics) | **VIT-Bhopal** | `2024 - 2027` |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karlos-5160&show_icons=true&theme=radical&hide_border=true" alt="Kuldeep's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlos-5160&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlos-5160&theme=radical&hide_border=true" alt="Streak Stats" height="150"/>
-</div>
+### ⚙️ **Tools I Use**
+| Category | Tools |
+|---------|--------|
+| Pen-Testing | Kali Linux 🐉 • Metasploit • Burp Suite • Nmap |
+| Digital Forensics | Autopsy • FTK Imager • Volatility |
+| Dev & Scripting | Git • VS Code • Linux CLI |
+| OSINT | Sherlock • Maltego |
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-choudhary-906724280" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Karlos_5160" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## 📘 **Education**
+🎓 *B.Sc. Computer Science*  
+**Cyber Security & Digital Forensics**  
+📍 VIT Bhopal  
+📅 *Expected Graduation:* **2027**
 
 ---
 
-### 🌟 Thank you for visiting my profile!
-*Feel free to reach out for collaborations, CTF teams, or security discussions.*
+## 🌐 **Connect with Me**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<a href="https://www.linkedin.com/in/kuldeep-choudhary-906724280">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Karlos-5160/count.svg" alt="Visitor Count" />
-</div>
+<a href="https://x.com/Karlos_5160">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?logo=twitter&logoColor=white&style=for-the-badge"/>
+</a>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karlos-5160&show_icons=true&theme=chartreuse-dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-5160&theme=chartreuse-dark" height="165"/>
+</p>
+
+---
+
+## 🧩 **Fun Fact**
+⚡ *I love solving cybersecurity challenges, and every exploit teaches me something new.*
+
+---
+
+## 🕶️ **Profile Moto**
+<p align="center">
+  <strong>"Hack the knowledge. Secure the future."</strong>
+</p>
