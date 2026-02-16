@@ -57,22 +57,8 @@
 
 ---
 
-# ⚖️ **Purple Team (Bridging Red & Blue)**  
-
-### Combine → Attack + Defend  
-- 🔮 Adversary Simulation  
-- 🔮 Threat Modeling  
-- 🔮 Attack Chain Mapping (MITRE ATT&CK)  
-- 🔮 Red → Blue knowledge transfer  
-- 🔮 Improving detection rules & IR playbooks  
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-A31F34?style=for-the-badge&logo=mitre&logoColor=white)
-
----
-
 # 👨‍💻 **Core Skills**
-- 🐍 Python Automation  
-- 🧪 Linux Power Usage  
+- 🐍 Python Automation    
 - 🔍 Packet & Traffic Analysis  
 - ✉️ Email Header & Phishing Analysis  
 - 🕸️ OSINT Intelligence Gathering  
@@ -82,8 +68,8 @@
 ---
 
 # 📚 **Education**
-🎓 **B.Sc. Computer Science (Cyber Security & Digital Forensics)**  
-📍 VIT Bhopal • 2024–2027  
+🎓 **Btech. Computer Science (Cyber Security & Digital Forensics)**  
+📍 VIT Bhopal • 2023–2027  
 
 ---
 
