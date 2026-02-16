@@ -1,8 +1,11 @@
 <div align="center">
-### 🛡️ *Hii myself Kuldeep (Karlos_5160)  
-** • Security Researcher • VAPT • Red Teamer • Network Security • Digital Forensics **  
 
-<img width="380" src="https://i.imgur.com/7QFJ4XW.gif"/>
+### 🛡️ *Hi, I'm Kuldeep (Karlos_5160)*  
+**• Security Researcher • VAPT • Red Teamer • Network Security • Digital Forensics**
+
+<br>
+
+<img width="420" src="https://media.tenor.com/2uyENRyyqL8AAAAC/coding.gif"/>
 
 </div>
 
