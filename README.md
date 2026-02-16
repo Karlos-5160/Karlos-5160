@@ -17,12 +17,12 @@
 ### *“Attack to understand. Break to learn. Exploit to secure.”*
 
 ### 🔥 Offensive Skills  
-  🔻 Penetration Testing (Web / Network)  
-  🔻 Vulnerability Assessment  
-  🔻 Payload Crafting (Basic)  
-  🔻 Exploit Research Fundamentals  
-  🔻 Social Engineering & OSINT Recon  
-  🔻 Wireless Attacks Basics  
+    🔻 Penetration Testing (Web / Network)  
+    🔻 Vulnerability Assessment  
+    🔻 Payload Crafting (Basic)  
+    🔻 Exploit Research Fundamentals  
+    🔻 Social Engineering & OSINT Recon  
+    🔻 Wireless Attacks Basics  
 
 ### 🔥 Red Team Toolkit  
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
