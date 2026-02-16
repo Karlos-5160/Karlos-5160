@@ -11,21 +11,6 @@
 ---
 
 # ⚔️ **Red Team (Offensive Security)**  
-
-[BOOT SEQUENCE INITIATED]
-
-> Loading Red-Team modules............[OK]
-> Loading Blue-Team defenses..........[OK]
-> Activating Threat Intelligence......[OK]
-> Enabling Deep Packet Inspection.....[OK]
-> Deploying Cyber Arsenal.............[OK]
-
-SYSTEM STATUS : ONLINE
-USER          : KULDEEP (Karlos_5160)
-ACCESS LEVEL  : RED / BLUE TEAM HYBRID
-MODE          : ACTIVE CYBER OPERATIONS
-
-
 ### *“Attack to understand. Break to learn. Exploit to secure.”*
 
 ### 🔥 Offensive Skills  
