@@ -40,13 +40,13 @@
 ### *“To defend, you must understand the attacker.”*
 
 ### 🔵 Defensive Skills  
-  🛡️ SIEM Log Analysis  
-  🛡️ Incident Response  
-  🛡️ Malware Behavior Understanding  
-  🛡️ Memory & Disk Forensics  
-  🛡️ Threat Intelligence (Basic)  
-  🛡️ Network Monitoring & Packet Analysis  
-  🛡️ SOC Fundamentals  
+      🛡️ SIEM Log Analysis  
+      🛡️ Incident Response  
+      🛡️ Malware Behavior Understanding  
+      🛡️ Memory & Disk Forensics  
+      🛡️ Threat Intelligence (Basic)  
+      🛡️ Network Monitoring & Packet Analysis  
+      🛡️ SOC Fundamentals  
 
 ### 🔵 Blue Team Toolkit  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white)
