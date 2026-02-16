@@ -1,7 +1,7 @@
 <div align="center">
 
-### 🛡️ *Hi, I'm Kuldeep (Karlos_5160)*  
-**• Security Researcher • VAPT • Red Teamer • Network Security • Digital Forensics**
+### 🛡️ Hi, I'm Kuldeep (Karlos_5160)  
+# **• Security Researcher • VAPT • Red Teamer • Network Security • Digital Forensics**
 ### *“Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.”*
 
 <br>
