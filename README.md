@@ -1,15 +1,17 @@
 <div align="center">
 
-### **🛡️ Hi, I'm Kuldeep (Karlos_5160)**  
-# **• Security Researcher • VAPT  • Network Security • Digital Forensics**
-### *“Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.”*
+# 🛡️ **Hi, I'm Kuldeep (Karlos_5160)**  
+### **• Security Researcher • VAPT • Network Security • Digital Forensics**
 
 <br>
 
 <img width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0NDFneTY1emxnb2F6Mzh5YTg5djlmaHdlaGt6MjN0a3d2NDg0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
 
-</div>
+<br><br>
 
+### *“Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.”*
+
+</div>
 ---
 
 # ⚔️ **Red Team (Offensive Security)**  
