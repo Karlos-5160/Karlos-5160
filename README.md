@@ -79,7 +79,8 @@
 
 <div align="center">
   <!-- GitHub Profile Summary: Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karlos-5160&theme=dark" width="90%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karlos-5160&theme=2077&animation=rgb-soft&duration=5&name=KA%E2%82%B9LO%24
+" width="90%" alt="Profile Details" />
   <br><br>
   
   <!-- GitHub Streak Stats -->
