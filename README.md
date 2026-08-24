@@ -87,11 +87,7 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karlos-5160&theme=2077&animation=rgb-soft&duration=5" width="44.5%" alt="Profile Stats" />
   <br><br>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Karlos-5160&theme=2077&hide_border=true" height="175" alt="GitHub Streak Stats" />
 </div>
----
 
 # 🤝 **Connect With Me**
 
