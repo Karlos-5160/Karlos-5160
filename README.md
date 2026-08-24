@@ -76,11 +76,14 @@
 ---
 
 # 📊 **GitHub Stats**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karlos-5160&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlos-5160&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlos-5160&theme=tokyonight&hide_border=true" height="170"/>
+  <!-- Activity Graph / Contribution Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karlos-5160&theme=github-compact" width="100%" alt="Karlos-5160 GitHub Activity Graph" />
+  <br><br>
+  
+  <!-- GitHub Readme Streak Stats (Dark Theme with Orange Ring) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlos-5160&theme=dark&hide_border=true" height="175" alt="GitHub Streak Stats" />
 </div>
 
 ---
