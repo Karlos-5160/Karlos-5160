@@ -61,8 +61,7 @@
 
 # 👨‍💻 **Core Skills**
 - 🐍 Python Automation    
-- 🔍 Packet & Traffic Analysis  
-- ✉️ Email Header & Phishing Analysis  
+- 🔍 Packet & Traffic Analysis   
 - 🕸️ OSINT Intelligence Gathering  
 - 🌐 Web Security Essentials  
 - 💾 Image, Memory, Disk Forensics  
@@ -92,7 +91,7 @@
 # 🤝 **Connect With Me**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-choudhary-906724280" target="_blank">
+  <a href="https://www.linkedin.com/in/karlos5160" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Karlos_5160" target="_blank">
@@ -103,6 +102,6 @@
 ---
 
 <div align="center">
-  <h3>🔥 Thanks for visiting! Stay sharp. Stay secure. 🔐</h3>
+  <h3> Savdhan Rahe Satark Rahe 🔐</h3>
   <img src="https://profile-counter.glitch.me/Karlos-5160/count.svg"/>
 </div>
