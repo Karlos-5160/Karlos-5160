@@ -78,14 +78,19 @@
 # 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- GitHub Profile Summary: Profile Details Card -->
+  <!-- GitHub Profile Summary: Profile Details Card (Full Width) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karlos-5160&theme=2077&animation=rgb-soft&duration=5&name=KA₹LO$" width="90%" alt="Profile Details" />
   <br><br>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlos-5160&theme=dark&hide_border=true" height="175" alt="GitHub Streak Stats" />
-</div>
 
+  <!-- Side-by-Side: Repos per Language & Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karlos-5160&theme=2077&animation=draw&duration=5" width="44.5%" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karlos-5160&theme=2077&animation=rgb-soft&duration=5" width="44.5%" alt="Profile Stats" />
+  <br><br>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Karlos-5160&theme=2077&hide_border=true" height="175" alt="GitHub Streak Stats" />
+</div>
 ---
 
 # 🤝 **Connect With Me**
