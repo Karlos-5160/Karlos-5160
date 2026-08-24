@@ -78,11 +78,11 @@
 # 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- Activity Graph / Contribution Chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karlos-5160&theme=github-compact" width="100%" alt="Karlos-5160 GitHub Activity Graph" />
+  <!-- GitHub Profile Summary: Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karlos-5160&theme=dark" width="90%" alt="Profile Details" />
   <br><br>
   
-  <!-- GitHub Readme Streak Stats (Dark Theme with Orange Ring) -->
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karlos-5160&theme=dark&hide_border=true" height="175" alt="GitHub Streak Stats" />
 </div>
 
