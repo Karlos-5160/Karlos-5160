@@ -19,10 +19,10 @@
 ### 🔥 Offensive Skills  
     🔻 Penetration Testing (Web / Network)  
     🔻 Vulnerability Assessment  
-    🔻 Payload Crafting (Basic)  
+    🔻 Payload Crafting  
     🔻 Exploit Research Fundamentals  
     🔻 Social Engineering & OSINT Recon  
-    🔻 Wireless Attacks Basics  
+    🔻 Wireless Attacks 
 
 ### 🔥 Red Team Toolkit  
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
@@ -60,10 +60,11 @@
 ---
 
 # 👨‍💻 **Core Skills**
-- 🐍 Python Automation    
+- 🌐 Web Application Security   
+- 🐍 Python Automation
+- 💾 Bash Scripting    
 - 🔍 Packet & Traffic Analysis   
 - 🕸️ OSINT Intelligence Gathering  
-- 🌐 Web Security Essentials  
 - 💾 Image, Memory, Disk Forensics  
 
 ---
@@ -97,11 +98,14 @@
   <a href="https://x.com/Karlos_5160" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@2003kuldeepchoudhary" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <h3> Savdhan Rahe Satark Rahe 🔐</h3>
-  <img src="https://profile-counter.glitch.me/Karlos-5160/count.svg"/>
+  <h3> 🐞Savdhan Rahe Satark Rahe.🪲</h3>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QycmJkbDI0dHg3cW0xd3U0eDBtbGF2ZGc4NXB5NmxqMnF6ZWQ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif"/>
 </div>
