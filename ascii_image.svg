@@ -1,92 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 560" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="100%" height="100%">
   <style>
-    .ascii { font-family: 'Courier New', monospace; font-size: 11.5px; fill: #58a6ff; white-space: pre; }
-    .title { font-family: 'Courier New', monospace; font-size: 16px; fill: #79c0ff; font-weight: bold; }
-    .sep   { font-family: 'Courier New', monospace; font-size: 16px; fill: #30363d; }
-    .key   { font-family: 'Courier New', monospace; font-size: 13.5px; fill: #ffa657; font-weight: bold; }
-    .val   { font-family: 'Courier New', monospace; font-size: 13.5px; fill: #e6edf3; }
-    .dot   { font-family: 'Courier New', monospace; font-size: 13.5px; fill: #484f58; }
-    .quote { font-family: 'Courier New', monospace; font-size: 13px; fill: #7ee787; font-style: italic; }
-    .head  { font-family: 'Courier New', monospace; font-size: 14.5px; fill: #d2a8ff; font-weight: bold; }
+    .title { font-family: 'Courier New', monospace; font-size: 17px; fill: #79c0ff; font-weight: bold; }
+    .sep   { font-family: 'Courier New', monospace; font-size: 17px; fill: #30363d; }
+    .key   { font-family: 'Courier New', monospace; font-size: 14.5px; fill: #ffa657; font-weight: bold; }
+    .val   { font-family: 'Courier New', monospace; font-size: 14.5px; fill: #e6edf3; }
+    .dot   { font-family: 'Courier New', monospace; font-size: 14.5px; fill: #484f58; }
+    .quote { font-family: 'Courier New', monospace; font-size: 13.5px; fill: #7ee787; font-style: italic; }
+    .head  { font-family: 'Courier New', monospace; font-size: 15.5px; fill: #d2a8ff; font-weight: bold; }
   </style>
 
-  <rect width="100%" height="100%" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="100%" height="100%" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Left: ASCII Portrait -->
-  <foreignObject x="15" y="10" width="510" height="540">
+  <!-- Left: Exact Raw ASCII Art Preservation -->
+  <foreignObject x="15" y="10" width="700" height="620">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <pre style="margin: 0; font-family: 'Courier New', monospace; font-size: 11.5px; line-height: 1.1; color: #58a6ff; white-space: pre; font-weight: bold;"><![CDATA[
-                     ..
-             *,,..*/******,**,*,.,,,                     /(
-           .,  .,,,,,,,,,,,,,,,,,,,,*,                  *(, 
-         /. /.. ...   ..       ..,* ,...*               ./( 
-        .                        . .,..,               ./* 
-   //       ....                                      ///(#  
-   (*(/     .,,,    ..**(#(((#((/***,,......         /( ((, 
-  /((  /(.     .**..  /((#######%%%%###((((//*,,...   (* /(# 
-  ((/  (*       ..., /((###%%%%%%%%%%%%%%######((((,,* (* ((%
-  /(     ,/,    ,,/(/#####################%######(((//,, // /#  .((, 
-  (*   #/ /*    */(#####((((((((((((#((((((((####(((*. */  //#   ((# 
-  (    .//  /,   *(**..   ..*/(/(/*..... ,,/((//... -/, (#    ((#
-  ,   #/   ,*/, ,((//////....,/#%#(/***,.,///((/(((/(  *((   .((
-     .//    (// (( (((/,../**(%%%%(/***,,../*((((  ((  /(    ((
-     #/    ./. /*(##########%%%##(##########(((* *(  ./(    (
-     .//   (/ .(*###########((/((((########((#   ((   //.    *
-     #/.   /* #############/ ///*(##########(##.  ,(   ((
-     .//  (/   ,##############(,,.....,,,/########(#((/#  /(/((
-     #/,  (/  ./((#####*,..*///////#*,.../##(((((#((#* */.  ((
-     .//  (/  #/*#(((##*,. ,///,*#(*(/...,*#(((((((/#   ((   *((
-     #/,  (/  (&(&,*/((((((/**,,,*/*((((((/((/((((((   ./* ((,
-     ,*/  (/  #(%,*/*(((((((((((((((((((/*/(/%%%%%/#(  ((   .((
-     #/,  (/  #(& &&(,*/(#((#(*//,*/+(((((/****/(%%%%(((((,,,,/.... (((/
-    ///  //.  #(*%*##(/,*****.,***.**///(&&%%%%(%#....(/.... (((
-    (/* ./* .#/*(&&&%#(//.,,,,,,,,,...*/*/(#%%%##((%(#*,,,.../((
-    /// .//*....(@@@@%#(#(((/***,***,******/((((#%%#(#((...,/(...((,
-   (/,  ...(/....(@@@@@%%#(#*///((((((/(((((#%%%%(%(#....*(.....*((..
- ./*/*.....*/*&&&@@@@@%(/(/(####((((((((((((((((#(%/%#%%%%@...,*#//......(((..
- &%&&&&&&&&&&&@@@@@%%####(((((((#############%%%(#%%%@@@%%%&&&&&&&....(/.
- &%&&&&&&&&&@@@@&@%@%*,##(##################((#, &&&@@@@@@%&&&&&&&&&&
- &%&&&&&&@@@@@@@&@@&,, &%&&&&%##%############*, %@@@%@@@@&%&&&&&&&&&
- &&&&&&&@@@@#/@@@@@@%@%&&&&&&&&%#%%%########%#%*/%%%@@@@@@(#&&&&&&&&&&
- &&&&&&&&&@@@@&##/*@@@@@@@%%%%%##%#%%%%%%%%%#%*/&%%%@@@@%((%#%@@@@@%&&&&
- @@@&&&&&@@@@@@&%@@@&@@@@@@@%%%(@@@@@@@@@@@@@@@@@@@@@@@@@@%&%@@@@@@@@@
- &&&&&&&&@@@@@@@@@&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@%@*@
- &&%%&&&&@@@@@@@@@%#*&@@@@@@@@@%%%&%*&%%#%%%%%%#*(&@@@@@@@@@@&@#*@@@%@@@
- &&&&@@@@@@@@@@@@@&&%%&&&&&&&&&&%%%%%*#@@@@@@@@@#(#%@@@@@@@@@@@@@@@@@@@
- &%&&&&&@@@@@@@@@@@@&&%%@@@@@@@@@@%%%%%%*&%*&@@@@@@(###%&&&@@@@@@@@&@@@@&
-]]></pre>
+      <pre style="margin: 0; font-family: 'Courier New', monospace; font-size: 11.5px; line-height: 1.08; letter-spacing: 0px; color: #58a6ff; white-space: pre; overflow: visible; font-weight: bold;"><![CDATA[                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                  .  .                                          
+                      .   *,,.*/*****,**,*,,,                                 /(
+                    ., ..,,,..........,.,,,,,,*,,                           *(, 
+                   . /.  . ...    . ..    ..,*,...*                       .(/   
+                   .*,,,...                  . .,,..,                   ./*     
+//                    ....                   .  .  . .                 ///(#    
+ (*(/                ,,,..   .**(##((((#((/***,,........             /(   ((,   
+/((  /(.            .**..   /((###%%%##%%####(((/**,...,           (*     /(#   
+((/     (*           .,.. ,/(####%%%%%%#%%%%%#####(((,.,*        (*        ((%  
+/(        ,/,         ,.,/(######%%%%%%%%%%%#######(((/..,     // /#       .((, 
+(*        #/ /*        */(#####(((((((((##((((((((###((*.    */   //.       ((# 
+(        .//    /,     *(**.,.  . ..,*/(/*,... ...,,,///.  ./,     (#        ((#
+,        #/      ,*/.  ,((//////...,,/#%#(*,,..,(///((//((/ /(     *((       .((
+        .//      (/  // (((//,,./***(%%%%#(/***,.,,/*((((    ((     /(        ((
+        #/      ./.  /*(#########%####%&%##(##########((*    *(     ./(        (
+       .//      (/  .(#(####%##%%####%#%##(((##########((#    ((     //.       *
+       #/.      /*   ##############/ ///(/*((##########(##.   ,(      ((        
+      .//      (/    ,############(,,.....,,/#######(#(/(/#    /(     /((       
+      #/,      (/    ./((#####/,.,,*///////*,,,,((##((((#(#*   ,/.     ((       
+     .//      (/     #/#*(((##*,. ,///,,*#(/..,,*(((((((/(/#    ((     *((      
+     #/,      (/     (&&,/(((((((/**,.....,*//(/((((/*##(((((   ./*     ((,     
+    ,*/      (/     #(%.(,*/(((((((((((((((((((((////#%%%/#(#    ((     .((     
+    #/,      (/     #(& &#(,*/((#((*//,,*/((((/****/(%%%%(((((,,,,/(.... ((/    
+   ///      //.    #(%*.##%(/,****,*.,..,.****,**//(&&%%%#/%(#....(/....  ((    
+   (/*     .(/    .#/(*@&&%#(//,,....,..,.....*,*/((#%%%##((%(#,,,,/(...../((   
+  ///     .//*....(@@@@&%#(##((//***,*,,,******//(((/(#%&&#(#((,.../(,.. ..((,  
+  (/,   ...(/...@@@@@@%##/(###(((///*********///((((((/#%&@@@%(#..../(.....*((..
+./*/......*/%@&&@@@@@&%(/(((####((((((///////(((((((#(%/%%&@@@@@&,..*//.....(((.
+&%&&&&&&&&&&&&@@&&&@@@%*####(#####(((((((((((((((#(###(#*%&&@@@&&&%&&&@@&,...(/.
+&%&&&&&&&&&@@@&&@@@&@&*,##%##############((###########(#(,&&&@&&@@@@@&&&&&&&&&&&
+&%&&&&&&&@@@@&&&@&@&&,,,&&%%%%##%#######################*,,&@@@&@@@@@&#&&&&&&&&&
+&&&&&&%&&@@@#/#@@@@@@&%@&@@##%%%%%#%%%%%%%%%#####%#%#/%%&&%&&@@@@@@@(#&@@&@@@&&&
+&&&&&&&&&@@@@&#/*@@@@@&@@@@@&%%%%##%%%%%%%%%%%%%%%%%&%&@@@@&@@@%(##%&&@@&@@@&&&&
+@@&&&&&@@@@@@&&@@@@&@@@@@@@@@&%%%#%%%%%%%%%%%%%%%%%%%&&@@@@@@@@@@@@@@@@&@@@@@&&&
+&&&&&&&@@@@@@@&&@@@@@@@@@@@@@&@%%%%%%%%%%%%%%%%%%%%&@@@@@@@@@@@#&@@@@@@@@@@&@&@&
+&&%%&&@@@@@@@@@@&%#&@@@@@@@@@@@%%#%%&%%%%%%%%&%%%/@@@@@@@@@@#(&@@@@@@@@@@&@@&@&@
+&&&&@@@@@@@@@@@@&&&%%&@@@@@@@@@@&%%%%%%%%%%%%%%*&@@@@@@@&#(##%@@@@@@@@@@@&@@@@&&
+&&&&&@&@@@@@@@@@@@@&&%%#&@@@@@@@&%%%%%%%%%%&%*&@@@@@@(###%%&&&@@@@@@@@@@&@@@@@&&]]></pre>
     </div>
   </foreignObject>
 
   <!-- Right: Info Panel -->
-  <text x="535" y="44">
+  <text x="730" y="55">
     <tspan class="title">karlos@kali</tspan>
     <tspan class="sep"> ---------------------------------------</tspan>
     
-    <tspan x="535" dy="24"><tspan class="key">. OS</tspan><tspan class="dot">: ................... </tspan><tspan class="val">Kali Linux, Arch Linux</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Role</tspan><tspan class="dot">: ................. </tspan><tspan class="val">Security Researcher / Pentester</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Focus</tspan><tspan class="dot">: ................ </tspan><tspan class="val">VAPT, Exploit Dev, DFIR, OSINT</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Host</tspan><tspan class="dot">: .................. </tspan><tspan class="val">VIT Bhopal University</tspan></tspan>
+    <tspan x="730" dy="28"><tspan class="key">. OS</tspan><tspan class="dot">: ................... </tspan><tspan class="val">Kali Linux, Arch Linux</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Role</tspan><tspan class="dot">: ................. </tspan><tspan class="val">Security Researcher / Pentester</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Focus</tspan><tspan class="dot">: ................ </tspan><tspan class="val">VAPT, Exploit Dev, DFIR, OSINT</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Host</tspan><tspan class="dot">: .................. </tspan><tspan class="val">VIT Bhopal University</tspan></tspan>
 
-    <tspan x="535" dy="28"><tspan class="head">- Languages &amp; Frameworks ---------------------</tspan></tspan>
-    <tspan x="535" dy="22"><tspan class="key">. Languages.Prog</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Python, C, C++, Bash, SQL, JS</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Languages.Web</tspan><tspan class="dot">: ....... </tspan><tspan class="val">React, Node.js, Express, Django</tspan></tspan>
+    <tspan x="730" dy="34"><tspan class="head">- Languages &amp; Frameworks ---------------------</tspan></tspan>
+    <tspan x="730" dy="26"><tspan class="key">. Languages.Prog</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Python, C, C++, Bash, SQL, JS</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Languages.Web</tspan><tspan class="dot">: ....... </tspan><tspan class="val">React, Node.js, Express, Django</tspan></tspan>
 
-    <tspan x="535" dy="28"><tspan class="head">- Security Toolkit ---------------------------</tspan></tspan>
-    <tspan x="535" dy="22"><tspan class="key">. Tools.Offensive</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Burp Suite, Metasploit, Nmap, SQLmap</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Tools.Defensive</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Wireshark, Volatility, Autopsy</tspan></tspan>
+    <tspan x="730" dy="34"><tspan class="head">- Security Toolkit ---------------------------</tspan></tspan>
+    <tspan x="730" dy="26"><tspan class="key">. Tools.Offensive</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Burp Suite, Metasploit, Nmap, SQLmap</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Tools.Defensive</tspan><tspan class="dot">: ...... </tspan><tspan class="val">Wireshark, Volatility, Autopsy</tspan></tspan>
 
-    <tspan x="535" dy="28"><tspan class="head">- Education &amp; Background ---------------------</tspan></tspan>
-    <tspan x="535" dy="22"><tspan class="key">. Education</tspan><tspan class="dot">: ............ </tspan><tspan class="val">B.Tech CSE (2023 - 2027)</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Specialization</tspan><tspan class="dot">: ....... </tspan><tspan class="val">Cyber Security &amp; Forensics</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Location</tspan><tspan class="dot">: ............. </tspan><tspan class="val">Jaipur / Bhopal, India</tspan></tspan>
+    <tspan x="730" dy="34"><tspan class="head">- Education &amp; Background ---------------------</tspan></tspan>
+    <tspan x="730" dy="26"><tspan class="key">. Education</tspan><tspan class="dot">: ............ </tspan><tspan class="val">B.Tech CSE (2023 - 2027)</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Specialization</tspan><tspan class="dot">: ....... </tspan><tspan class="val">Cyber Security &amp; Forensics</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Location</tspan><tspan class="dot">: ............. </tspan><tspan class="val">Jaipur / Bhopal, India</tspan></tspan>
 
-    <tspan x="535" dy="28"><tspan class="head">- Contact &amp; Links ----------------------------</tspan></tspan>
-    <tspan x="535" dy="22"><tspan class="key">. GitHub</tspan><tspan class="dot">: ............... </tspan><tspan class="val">github.com/Karlos-5160</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. LinkedIn</tspan><tspan class="dot">: ............. </tspan><tspan class="val">in/karlos5160</tspan></tspan>
-    <tspan x="535" dy="20"><tspan class="key">. Medium</tspan><tspan class="dot">: ............... </tspan><tspan class="val">@2003kuldeepchoudhary</tspan></tspan>
+    <tspan x="730" dy="34"><tspan class="head">- Contact &amp; Links ----------------------------</tspan></tspan>
+    <tspan x="730" dy="26"><tspan class="key">. GitHub</tspan><tspan class="dot">: ............... </tspan><tspan class="val">github.com/Karlos-5160</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. LinkedIn</tspan><tspan class="dot">: ............. </tspan><tspan class="val">in/karlos5160</tspan></tspan>
+    <tspan x="730" dy="24"><tspan class="key">. Medium</tspan><tspan class="dot">: ............... </tspan><tspan class="val">@2003kuldeepchoudhary</tspan></tspan>
 
-    <tspan x="535" dy="28"><tspan class="head">- Mission ------------------------------------</tspan></tspan>
-    <tspan x="535" dy="22" class="quote">. Hunting Zero-Days • Exploit Dev • Breaking Boxes 🚀</tspan>
+    <tspan x="730" dy="34"><tspan class="head">- Mission ------------------------------------</tspan></tspan>
+    <tspan x="730" dy="26" class="quote">. Hunting Zero-Days • Exploit Dev • Breaking Boxes 🚀</tspan>
   </text>
 </svg>
