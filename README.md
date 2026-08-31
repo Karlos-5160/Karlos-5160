@@ -20,7 +20,7 @@
 
 <br>
 
-> *"Every IoT device in this world has a zero-day vulnerability hiding somewhere deep in its core — waiting to be found by someone who's actually looking."*
+> *"Every IoT device in this world now has a zero-day vulnerability hiding somewhere deep in its core — waiting to be exploited by some Black Hat Hacker."*
 
 </div>
 
@@ -118,5 +118,5 @@
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QycmJkbDI0dHg3cW0xd3U0eDBtbGF2ZGc4NXB5NmxqMnF6ZWQ0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="60%" height="50%"/>
-    <h2> 🐞Savdhan Rahe Satark Rahe.🪲</h2>
+    <h2> 🐞Saavdhan Rahe Satark Rahe.🪲</h2>
 </div>
