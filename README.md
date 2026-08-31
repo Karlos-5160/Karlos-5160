@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Karlos-5160/Karlos-5160/main/ascii_image.svg" width="100%" alt="Terminal Header" />
+
+### 👋 Welcome to my terminal — where curiosity meets exploitation.
+*Scanning ports, breaking assumptions, turning bugs into lessons.*
+
+<img src="https://raw.githubusercontent.com/Karlos-5160/Karlos-5160/main/ascii_image.svg" width="100%" alt="Terminal Header" />
+
 </div>
+
 <div align="center">
 
-# 🩻 **Hi, I'm Kuldeep (Karlos-5160)**  
-### **• Security Researcher • VAPT • Network Security • Digital Forensics**
+# 🩻 Hi, I'm Kuldeep <sub>(Karlos-5160)</sub>
+
+**🛡️ Security Researcher&nbsp;•&nbsp;🎯 VAPT&nbsp;•&nbsp;🌐 Network Security&nbsp;•&nbsp;🔍 Digital Forensics**
 
 <br>
 
-<img width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0NDFneTY1emxnb2F6Mzh5YTg5djlmaHdlaGt6MjN0a3d2NDg0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"/>
+<img width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg0NDFneTY1emxnb2F6Mzh5YTg5djlmaHdlaGt6MjN0a3d2NDg0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hacker gif"/>
 
 <br>
 
-### *“Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.”*
+> *"Every IoT device in this world has a zero-day vulnerability hiding somewhere deep in its core — waiting to be found by someone who's actually looking."*
 
 </div>
+
 # ⚔️ **Red Team (Offensive Security)**  
 ### *“Attack to understand. Break to learn. Exploit to secure.”*
 
