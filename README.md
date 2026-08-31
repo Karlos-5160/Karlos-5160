@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="./ascii_image.svg" alt="ASCII Profile" width="500" />
+  <img src="https://raw.githubusercontent.com/Karlos-5160/Karlos-5160/main/ascii_image.svg" alt="ASCII Profile" width="500" />
 </div>
 
 # ⚔️ **Red Team (Offensive Security)**  
