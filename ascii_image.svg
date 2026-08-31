@@ -65,8 +65,8 @@
     <tspan class="title">karlos@kali</tspan>
     <tspan class="sep"> ---------------------------------------</tspan>
     
-    <tspan x="740" dy="36"><tspan class="key">. OS</tspan><tspan class="dot">: ................... </tspan><tspan class="val">Kali Linux, Arch Linux</tspan></tspan>
-    <tspan x="740" dy="30"><tspan class="key">. Role</tspan><tspan class="dot">: ................. </tspan><tspan class="val">Security Researcher / Pentester</tspan></tspan>
+    <tspan x="740" dy="36"><tspan class="key">. OS</tspan><tspan class="dot">: ................... </tspan><tspan class="val">Kali Linux</tspan></tspan>
+    <tspan x="740" dy="30"><tspan class="key">. Role</tspan><tspan class="dot">: ................. </tspan><tspan class="val">Security Researcher / Pentester / Red Teamer</tspan></tspan>
     <tspan x="740" dy="30"><tspan class="key">. Focus</tspan><tspan class="dot">: ................ </tspan><tspan class="val">VAPT, Exploit Dev, DFIR, OSINT</tspan></tspan>
     <tspan x="740" dy="30"><tspan class="key">. Host</tspan><tspan class="dot">: .................. </tspan><tspan class="val">VIT Bhopal University</tspan></tspan>
 
