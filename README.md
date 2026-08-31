@@ -8,7 +8,8 @@
 
 </div>
 
-# 🩻 Hi, I'm Kuldeep <sub>(Karlos-5160)</sub>
+
+# 🩻 Hi, I'm Kuldeep (Karlos-5160)
 
 **🛡️ Security Researcher&nbsp;•&nbsp;🎯 VAPT&nbsp;•&nbsp;🌐 Network Security&nbsp;•&nbsp;🔍 Digital Forensics**
 
