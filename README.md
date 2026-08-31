@@ -10,11 +10,11 @@
 <br>
 
 ### *“Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.”*
+
 </div>
 
-<div align="center">
-  ```text
-                                                                                  
+``` text
+                                                                                
                                                                                 
                                                                                 
                                                                                 
@@ -59,7 +59,6 @@
 &&&&&@&@@@@@@@@@@@@&&%%#&@@@@@@@&%%%%%%%%%%&%*&@@@@@@(###%%&&&@@@@@@@@@@&@@@@@&&
 
 ```
-</div>
 
 # ⚔️ **Red Team (Offensive Security)**  
 ### *“Attack to understand. Break to learn. Exploit to secure.”*
