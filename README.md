@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=root%40karlos-5160&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=%3E%20access%20granted%20...%20initializing%20profile&descAlignY=58&descSize=18&descColor=7ee787" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=root%40karlos-5160&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=%3E%20Access%20Granted%20...%20Initializing%20Profile&descAlignY=58&descSize=18&descColor=7ee787" width="100%" alt="header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=7EE787&background=0D1117FF&center=true&vCenter=true&width=700&lines=Breaching+systems+ethically...;Hunting+zero-days+one+bug+at+a+time...;Turning+vulnerabilities+into+lessons...;Welcome+to+my+terminal." alt="typing animation"/>
 
