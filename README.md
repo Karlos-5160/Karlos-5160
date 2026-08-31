@@ -2,10 +2,11 @@
   <img src="https://raw.githubusercontent.com/Karlos-5160/Karlos-5160/main/ascii_image.svg" width="100%" alt="Terminal Header" />
 </div>
 
+<div align="center">
 # 🩻 **Hi, I'm Kuldeep (Karlos-5160)**
 
 ### **• Security Researcher • VAPT • Network Security • Digital Forensics**
-
+</div>
 ---
 
 > ❝ *Every IOT device in this world now has some ZERO-day vulnerability hiding somewhere deep down in the core of the system and is eagerly waiting to be exploited by some BLACK HAT hacker.* ❞
